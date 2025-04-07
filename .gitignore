@@ -1,2 +1,4 @@
 ign.txt
 target/*
+/sat
+api.js
